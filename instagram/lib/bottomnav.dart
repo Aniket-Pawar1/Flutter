@@ -16,7 +16,7 @@ class _MyHomePageState extends State<MyHomePage> {
     Home(), //0
     Search(), //1
     // Remove Add(),//2
-    Text("Reels Page"), //3-1=2
+    Text("Reels Pages"), //3-1=2
     Profile(), //4-1=3
   ];
 

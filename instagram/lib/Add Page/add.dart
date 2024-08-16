@@ -11,7 +11,7 @@ class _AddState extends State<Add> {
   @override
   Widget build(BuildContext context) {
     return Container(
-child: Text("data"),
+      child: Text("data"),
     );
   }
 }
